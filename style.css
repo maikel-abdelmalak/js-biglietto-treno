@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 75vw;
+    height: 100vh;
+    padding-top: 150px;
+    text-align: center;
+    background-color: #ddd;
+    margin: auto;
+}
+
+#ticket-container{
+    width: 400px;
+    padding: 30px;
+    background-color: blue;
+    border-radius: 3px;
+    margin: auto;
+    color: #fff;
+}
+
+#ticket-container p{
+    display: inline-block;
+    background-color: #fff;
+    color: black;
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
